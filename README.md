@@ -1,2 +1,2 @@
-# shool_managenent_system
+# school_managenent_system
 نظام إدارة مدرسة 
